@@ -31,7 +31,8 @@ Six axes. The weights differ per season because the biology differs.
 |---|---|---|---|---|
 | Activity | 30 | 20 | 10 | 10 |
 | Binding | 20 | 25 | 30 | 30 |
-| Selectivity | 20 | 25 | 25 | 30 |
+| Selectivity | 20 | 25 | **30** | 30 |
+| **Total** | **100** | **100** | **100** | **100** |
 | ADMET | 15 | 15 | 15 | 15 |
 | Novelty | 10 | 10 | 10 | 10 |
 | Synthesis | 5 | 5 | 5 | 5 |
